@@ -1,0 +1,22 @@
+//Kyler Kiminki
+//kkiminki
+//CMPS101
+//README
+
+//ADT for matrix
+Matrix.java
+
+//ADT for list
+List.java
+
+//Test file for matrix
+MatrixTest.java
+
+//Test file for list
+ListTest.java
+
+//Client file
+Spares.java
+
+//Makefile
+Makefile
